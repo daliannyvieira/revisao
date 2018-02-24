@@ -9,3 +9,5 @@
 - O pequeno príncipe
 - As oito mortes do imortal
 - A arte da guerra
+- A relíquia
+- Maisons a la champagne
